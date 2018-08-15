@@ -4,8 +4,8 @@
 ## Hello World
 ### Hello World
 
-* tmn
-* zhm
+* Git
+* Github
 
 [Github](https://github.com)
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
