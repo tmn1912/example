@@ -5,5 +5,7 @@
 * tmn
 * zhm
 
-[I'm a link](https://github.com)
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+[Github](https://github.com)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+:two_hearts: Github :two_hearts:
